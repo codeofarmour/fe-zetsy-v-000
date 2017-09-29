@@ -44,4 +44,11 @@ p {
 	font-size: 0.8em;
 }
 
+/*////////// Section Styles //////////*/
+/* descendent selector*/
+header a {
+	color: rgb(152,173,166);
+	text-decoration: none;
+}
+
 /* Write all remaining styles here */
