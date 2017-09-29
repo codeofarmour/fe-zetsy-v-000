@@ -54,4 +54,9 @@ header a {
 header a:hover {
 	color: rgb(111,127,122);
 }
+
+#featured img {
+	color: #1783bb;
+	text-decoration: none;
+}
 /* Write all remaining styles here */
